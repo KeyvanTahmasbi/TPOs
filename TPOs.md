@@ -1,3 +1,11 @@
+# Other Words
+
+nosy: فضول
+- AI chatbots are too nosy
+
+innocent: (adj) بی گناه
+- the prisoners were later found innocent
+
 # TPO 06
 ## Powering the Industrial Revolution
 
@@ -5,7 +13,7 @@ harnessing: بهره برداری
 - In Britain one of the most dramatic changes of the Industrial Revolution was the harnessing of power.
 
 reign: سلطنت(n)
-- Until the reign of George Ⅲ(1760-1820), available sources of power for work and travel had not increased since the Middle Ages.
+- Until the reign of George Ⅲ (1760-1820), available sources of power for work and travel had not increased since the Middle Ages.
 
 suited: مناسب
 - the last of these was suited at all.
@@ -51,3 +59,16 @@ enduring: ماندگار (adj)
 
 engage: (v) مشغول کردن
 - parents and children increasingly engage in discussions of past events when children are about three years old.
+
+# TPO 07
+## The Geologic History of the Mediterranean
+
+beneath: (adv) در زیر
+- Another task for the Glomar Challenger’s scientists was to try to determine the origin of the domelike masses (توده های گنبدی) buried deep beneath the Mediterranean seafloor.
+
+deck: (n) عرشه کشتی
+- samples of solid gypsum were repeatedly brought on deck as drilling operations penetrated the seafloor.
+
+gypsum: (n) گچ
+- Furthermore, the gypsum was found to possess peculiarities of composition
+
