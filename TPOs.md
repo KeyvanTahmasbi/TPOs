@@ -6,6 +6,9 @@ nosy: فضول
 innocent: (adj) بی گناه
 - the prisoners were later found innocent
 
+advocate: (n) مدافع
+- a person who publicly supports or recommends a particular cause or policy.
+
 # TPO 06
 ## Powering the Industrial Revolution
 
@@ -72,3 +75,33 @@ deck: (n) عرشه کشتی
 gypsum: (n) گچ
 - Furthermore, the gypsum was found to possess peculiarities of composition
 
+vessel: (n) کشتی (رگ)
+- In 1970 geologists Kenneth J. Hsu and William B.F. Ryan were collecting research data while aboard the oceanographic research vessel Glomar Challenger.
+
+peculiarity: (n) خصوصیات عجیب و غریب - ویژگی خاص
+- the gypsum was found to possess peculiarities of composition and structure that suggested it had formed on desert flats.
+
+strait: (n) تنگه
+- the Mediterranean was a broad seaway linked to the Atlantic by two narrow straits.
+
+deluge: (n) سیل-طوفان
+- about 5.5 million years ago came the deluge.
+
+crustal: پوسته
+
+faulting: گسل کردن
+
+cascaded: آبشاری
+
+spectacularly: بطور تماشایی (adv)
+spectacular: دیدنی و جذاب
+- As a result of crustal adjustments and faulting, the Strait of Gibraltar, where the Mediterranean now connects to the Atlantic, opened, and water cascaded spectacularly back into the Mediterranean. 
+
+Turbulent: آشفته-سرکش-یاغی
+- Turbulent waters tore into the hardened salt flats, broke them up, and ground them into the pebbles observed in the first sample taken by the Challenger.
+
+## Ancient Rome and Greece
+
+cohesiveness - cohision: (n) انسجام
+
+pecu
